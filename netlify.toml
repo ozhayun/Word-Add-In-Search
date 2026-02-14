@@ -1,0 +1,4 @@
+# Netlify build and deploy for Word Add-in
+[build]
+  command = "npm run build"
+  publish = "dist"
